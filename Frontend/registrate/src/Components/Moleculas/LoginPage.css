@@ -1,0 +1,34 @@
+/* src/Components/Organismos/LoginPage.css */
+.login-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .login-page h2 {
+    margin-bottom: 20px;
+  }
+  
+  .big-btn-enter {
+    background-color: #818181 !important;
+    border-color: #6f6f6f !important;
+    display: flex !important;
+    height: 79px !important;
+    margin-top: 20px !important;
+    width: 542px !important;
+  }
+  
+  .big-btn-register {
+    background-color: #7f7f7f;
+    border-radius: 14.66px;
+    color: var(--white);
+    font-family: "Titillium Web", Helvetica;
+    font-size: 42.2px;
+    font-weight: 300;
+    height: 56px;
+    margin-top: 20px;
+    width: 261px;
+  }
+  
+  /* Otros estilos específicos para la página de inicio de sesión */
+  

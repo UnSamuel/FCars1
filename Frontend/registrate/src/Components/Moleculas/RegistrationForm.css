@@ -1,0 +1,41 @@
+/* src/Components/Moleculas/RegistrationForm.css */
+.registration-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .registration-form label {
+    margin-top: 10px;
+    font-size: 16px;
+  }
+  
+  .registration-form input {
+    width: 300px;
+    height: 30px;
+    margin-bottom: 15px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  /* Estilos para el botón Confirmar Registro */
+  .registration-form .big-btn-register {
+    background-color: #2196f3 !important;
+    border-color: #1565c0 !important;
+    color: #fff !important;
+    height: 50px !important;
+    width: 100%;
+    border-radius: 4px;
+    margin-top: 16px; /* Espaciado superior */
+    cursor: pointer;
+    transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease;
+    box-sizing: border-box;
+  }
+  
+  .registration-form .big-btn-register:hover {
+    background-color: #1e88e5 !important;
+    border-color: #145997 !important;
+    color: #fff !important;
+  }
+  

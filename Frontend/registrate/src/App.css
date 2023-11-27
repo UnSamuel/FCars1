@@ -1,0 +1,16 @@
+/* src/App.css */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f4f4f4;
+}
+
+/* Estilos adicionales según sea necesario para el contenedor principal de la aplicación */

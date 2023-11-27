@@ -1,0 +1,13 @@
+/* src/Components/Atomos/Button.css */
+.custom-button {
+  background-color: #818181;
+  border-color: #6f6f6f;
+  display: flex;
+  height: 79px;
+  width: 542px;
+}
+
+.login-link-button {
+  margin-top: 10px;
+}
+

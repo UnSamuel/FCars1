@@ -1,0 +1,27 @@
+/* src/Components/Moleculas/LoginForm.css */
+.login-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 300px;
+  }
+  
+  .login-form input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+  
+  .login-form .custom-button {
+    background-color: #818181;
+    border: 1px solid #6f6f6f;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Otros estilos específicos para el formulario de inicio de sesión */
+  
