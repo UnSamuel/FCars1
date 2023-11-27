@@ -1,0 +1,146 @@
+.mercedes-benz-logo-is {
+  margin: 0;
+}
+.copyright-2021-container,
+.web-design-toronto {
+  position: absolute;
+  width: 80.6%;
+  top: 59.85%;
+  left: 0;
+  line-height: 130%;
+  display: inline-block;
+}
+.web-design-toronto {
+  width: 19.28%;
+  left: 81.26%;
+  text-align: right;
+}
+.footer-child {
+  position: absolute;
+  top: 142.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--gray-5);
+  box-sizing: border-box;
+  width: 1680px;
+  height: 1px;
+}
+.div1,
+.unit-40-101-container {
+  position: absolute;
+  top: 27.01%;
+  left: 74.13%;
+  line-height: 130%;
+  color: var(--black);
+}
+.unit-40-101-container {
+  width: 16.59%;
+  top: 25.91%;
+  left: 87.19%;
+  display: inline-block;
+}
+.logo-footer-icon {
+  position: absolute;
+  height: 16.42%;
+  width: 13.65%;
+  top: 20.8%;
+  right: 86.35%;
+  bottom: 62.77%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.top-menu {
+  position: absolute;
+  width: 41.44%;
+  top: calc(50% - 74px);
+  right: 41.02%;
+  left: 17.54%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+}
+.facebook-icon-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10.13px;
+  background-color: var(--gray-4);
+  width: 35.9px;
+  height: 38px;
+}
+.path-icon {
+  position: absolute;
+  height: 75%;
+  width: 41.23%;
+  top: 11.05%;
+  right: 29.25%;
+  bottom: 13.95%;
+  left: 29.53%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.facebook-icon,
+.inst-icon {
+  position: absolute;
+  top: 63px;
+  left: 1026px;
+  width: 35.9px;
+  height: 38px;
+}
+.inst-icon {
+  left: 1081.7px;
+  width: 36.9px;
+}
+
+.phone-icon {
+  height: 8.76%;
+  width: 1.44%;
+  top: 26.64%;
+  right: 25.87%;
+  bottom: 64.6%;
+  left: 72.69%;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.footer-line {
+  position: absolute;
+  height: 1.09%;
+  width: 100.54%;
+  top: 0;
+  right: -0.54%;
+  bottom: 98.91%;
+  left: 0;
+  background-color: var(--corporate-secondary);
+}
+.shape-icon {
+  position: absolute;
+  height: 59.74%;
+  width: 69.64%;
+  top: 21.05%;
+  right: 19.22%;
+  bottom: 19.21%;
+  left: 11.14%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.telegram-icon {
+  position: absolute;
+  top: 63px;
+  left: 1138px;
+  width: 35.9px;
+  height: 38px;
+}
+.footer {
+  width: 1670px;
+  height: 274px;
+  text-align: left;
+  font-size: var(--body-size);
+  color: var(--gray-4);
+  font-family: var(--body);
+}

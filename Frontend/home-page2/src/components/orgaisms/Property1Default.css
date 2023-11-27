@@ -1,0 +1,16 @@
+.services {
+  position: relative;
+  line-height: 130%;
+}
+.property-1default {
+  border-radius: var(--br-3xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-8xs) var(--padding-mini);
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--black);
+  font-family: var(--body);
+}

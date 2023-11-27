@@ -1,0 +1,15 @@
+.services2 {
+  position: relative;
+  line-height: 130%;
+}
+.menu-item {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs);
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--white);
+  font-family: var(--body);
+}

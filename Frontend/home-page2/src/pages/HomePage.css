@@ -1,0 +1,177 @@
+.banner-child,
+.image-52-icon {
+  position: absolute;
+  top: 0;
+  height: 403px;
+}
+.banner-child {
+  left: 0;
+  background-color: #e7eded;
+  width: 1680px;
+}
+.image-52-icon {
+  left: 385px;
+  border-radius: 16px;
+  width: 1293px;
+  object-fit: cover;
+}
+.banner,
+.c-class-1-icon {
+  position: absolute;
+  top: 166px;
+  left: 119px;
+  width: 1680px;
+  height: 403px;
+}
+.c-class-1-icon {
+  top: 0;
+  left: 0;
+  width: 347.9px;
+  height: 150px;
+  object-fit: cover;
+}
+.c-class {
+  position: absolute;
+  top: 202px;
+  left: 133px;
+  font-weight: 300;
+  display: inline-block;
+  width: 90.3px;
+}
+.auto8-child {
+  position: absolute;
+  top: 197.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--gray-5);
+  box-sizing: border-box;
+  width: 356.3px;
+  height: 1px;
+}
+.auto8,
+.image-45-icon {
+  position: absolute;
+  top: 1110px;
+  left: 1517px;
+  width: 355.3px;
+  height: 245px;
+}
+.image-45-icon {
+  top: 0;
+  left: 0;
+  width: 368.9px;
+  height: 150px;
+  object-fit: cover;
+}
+.a-class {
+  position: absolute;
+  top: 202px;
+  left: 137px;
+  font-weight: 300;
+  display: inline-block;
+  width: 95.9px;
+}
+.auto7-child {
+  position: absolute;
+  top: 197.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--gray-5);
+  box-sizing: border-box;
+  width: 369.9px;
+  height: 1px;
+}
+.auto4,
+.auto5,
+.auto6,
+.auto7,
+.c-class-1-icon2 {
+  position: absolute;
+  top: 1110px;
+  left: 1026px;
+  width: 368.9px;
+  height: 245px;
+}
+.auto4,
+.auto5,
+.auto6,
+.c-class-1-icon2 {
+  left: 561px;
+}
+.auto4,
+.auto5,
+.c-class-1-icon2 {
+  left: 109px;
+  width: 355.3px;
+}
+.auto4,
+.c-class-1-icon2 {
+  top: 783px;
+  left: 1517px;
+  width: 368.9px;
+}
+.c-class-1-icon2 {
+  top: 0;
+  left: 0;
+  width: 361.2px;
+  height: 150px;
+  object-fit: cover;
+}
+.c-class2 {
+  position: absolute;
+  top: 202px;
+  left: 138.1px;
+  font-weight: 300;
+  display: inline-block;
+  width: 93.8px;
+}
+.auto1,
+.auto2,
+.auto3 {
+  position: absolute;
+  top: 783px;
+  left: 1026.1px;
+  width: 368.9px;
+  height: 245px;
+}
+.auto1,
+.auto2 {
+  left: 561.3px;
+  width: 355.3px;
+}
+.auto1 {
+  left: 126px;
+  width: 368.9px;
+}
+.vehiculos1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 100%;
+}
+.vehiculos {
+  position: absolute;
+  top: 615px;
+  left: 817px;
+  width: 167px;
+  height: 40px;
+  font-size: 40px;
+}
+.search-icon {
+  position: absolute;
+  top: 72px;
+  left: 1737px;
+  width: 37px;
+  height: 32px;
+  overflow: hidden;
+  opacity: 0.5;
+}
+.home-page {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 1670px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--h3-size);
+  color: var(--black);
+  font-family: var(--body);
+}

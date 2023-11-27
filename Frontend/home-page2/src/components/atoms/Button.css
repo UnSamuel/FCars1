@@ -1,0 +1,15 @@
+.button {
+    /* Estilos para el botón */
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    /* Estilos para el botón al pasar el mouse sobre él */
+    background-color: #0056b3;
+  }
+  
