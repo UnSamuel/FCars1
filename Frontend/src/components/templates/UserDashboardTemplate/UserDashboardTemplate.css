@@ -1,0 +1,19 @@
+/* UserDashboardTemplate.css */
+.user-dashboard-template {
+    /* Estilos generales del template de panel de usuario */
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  .user-dashboard-content {
+    /* Estilos para el contenido del panel de usuario */
+    flex-grow: 1;
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #fff;
+  }
+  

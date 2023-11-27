@@ -1,0 +1,21 @@
+/* UserDashboard.css */
+.user-dashboard {
+    /* Estilos generales del panel de usuario */
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .dashboard-title {
+    /* Estilos para el título del panel de usuario */
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .dashboard-description {
+    /* Estilos para la descripción del panel de usuario */
+    font-size: 16px;
+    color: #555;
+    margin-bottom: 20px;
+  }
+  

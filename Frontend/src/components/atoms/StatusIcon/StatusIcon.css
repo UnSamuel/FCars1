@@ -1,0 +1,22 @@
+/* StatusIcon.css */
+.status-icon {
+    /* Estilos generales del ícono de estado */
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    margin-right: 5px;
+    /* Puedes agregar más estilos según sea necesario */
+  }
+  
+  /* Estilos para diferentes estados */
+  .status-icon.active {
+    background-color: #2ecc71; /* Verde para estado activo */
+  }
+  
+  .status-icon.inactive {
+    background-color: #e74c3c; /* Rojo para estado inactivo */
+  }
+  
+  /* Puedes agregar más clases de estado según tus necesidades */
+  

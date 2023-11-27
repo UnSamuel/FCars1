@@ -1,0 +1,13 @@
+/* MainLayout.css */
+.main-layout {
+    /* Estilos generales del diseño principal */
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  .main-content {
+    /* Estilos para el contenido principal */
+    flex-grow: 1;
+  }
+  
