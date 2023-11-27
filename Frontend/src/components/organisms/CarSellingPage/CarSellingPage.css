@@ -1,0 +1,16 @@
+/* CarSellingPage.css */
+.car-selling-page {
+    /* Estilos generales de la página de venta de automóviles */
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .page-title {
+    /* Estilos para el título de la página */
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  /* Puedes agregar más estilos según sea necesario para el diseño de la página de venta de automóviles */
+  

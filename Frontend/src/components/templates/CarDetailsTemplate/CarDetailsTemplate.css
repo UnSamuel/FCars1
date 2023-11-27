@@ -1,0 +1,19 @@
+/* CarDetailsTemplate.css */
+.car-details-template {
+    /* Estilos generales del template de detalles del automóvil */
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  .car-details-content {
+    /* Estilos para el contenido de detalles del automóvil */
+    flex-grow: 1;
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #fff;
+  }
+  

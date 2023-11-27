@@ -1,0 +1,10 @@
+/* MainTemplate.css */
+.main-template {
+    /* Estilos generales del template principal */
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  /* Puedes agregar más estilos según sea necesario para el diseño principal */
+  

@@ -1,0 +1,11 @@
+/* CarSellingForm.css */
+.car-selling-form {
+    /* Estilos generales del formulario de venta de automóviles */
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    /* Puedes agregar más estilos según sea necesario */
+  }
+  

@@ -1,0 +1,44 @@
+/* Footer.css */
+.footer {
+    /* Estilos generales del pie de página */
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .footer-content {
+    /* Estilos para el contenido dentro del pie de página */
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .footer p {
+    /* Estilos para el texto del pie de página */
+    margin: 0;
+  }
+  
+  .footer-links {
+    /* Estilos para la lista de enlaces en el pie de página */
+    list-style: none;
+    padding: 0;
+    margin-top: 10px;
+  }
+  
+  .footer-links li {
+    /* Estilos para cada elemento de la lista de enlaces */
+    display: inline-block;
+    margin-right: 15px;
+  }
+  
+  .footer-links a {
+    /* Estilos para los enlaces en el pie de página */
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .footer-links a:hover {
+    /* Estilos al pasar el mouse sobre los enlaces */
+    text-decoration: underline;
+  }
+  

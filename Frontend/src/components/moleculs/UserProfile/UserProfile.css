@@ -1,0 +1,50 @@
+/* UserProfile.css */
+.user-profile {
+    /* Estilos generales del perfil de usuario */
+    display: flex;
+    align-items: center;
+    max-width: 300px;
+    margin: 0 auto;
+    /* Puedes agregar más estilos según sea necesario */
+  }
+  
+  .avatar {
+    /* Estilos para el avatar del usuario */
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 15px;
+  }
+  
+/* UserProfile.css */
+.user-info {
+    /* Estilos para la información del usuario */
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .username {
+    /* Estilos para el nombre de usuario */
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  
+  .user-details {
+    /* Estilos para la información adicional del usuario */
+    font-size: 14px;
+    color: #555;
+  }
+  
+  .user-details a {
+    /* Estilos para los enlaces en la información adicional */
+    color: #3498db;
+    text-decoration: none;
+    margin-top: 5px;
+    display: block;
+  }
+  
+  .user-details a:hover {
+    /* Estilos al pasar el mouse sobre los enlaces */
+    text-decoration: underline;
+  }
+  

@@ -1,0 +1,35 @@
+/* Header.css */
+.header {
+    /* Estilos generales del encabezado */
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+  }
+  
+  .header-content {
+    /* Estilos para el contenido dentro del encabezado */
+    max-width: 800px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo {
+    /* Estilos para el logo en el encabezado */
+    font-size: 20px;
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .login-link {
+    /* Estilos para el enlace de inicio de sesión en el encabezado */
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .login-link:hover {
+    /* Estilos al pasar el mouse sobre el enlace de inicio de sesión */
+    text-decoration: underline;
+  }
+  
