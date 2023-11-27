@@ -1,0 +1,16 @@
+/* src/Components/Atomos/Button.css */
+
+.button {
+    background-color: #565a56; /* Color de fondo verde */
+    color: white; /* Color del texto blanco */
+    padding: 10px 20px; /* Relleno interno */
+    border: none; /* Sin borde */
+    border-radius: 5px; /* Esquinas redondeadas */
+    cursor: pointer; /* Cambia el cursor al pasar por encima */
+    margin-right: 10px; /* Espacio entre botones */
+  }
+  
+  .button:hover {
+    background-color: #4b4e4b; /* Cambia el color al pasar por encima */
+  }
+  

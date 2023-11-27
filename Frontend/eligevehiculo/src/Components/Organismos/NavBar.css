@@ -1,0 +1,102 @@
+/* src/Components/Organismos/NavBar.css */
+
+/* Estilos generales de la barra de navegación */
+/* Estilos generales de la barra de navegación */
+.navbar-top {
+    display: flex;
+    justify-content: space-between; /* Alinea los elementos al inicio y al final */
+    padding: 20px; /* Relleno externo */
+    background-color: #333; /* Color de fondo gris oscuro */
+  }
+  
+  /* Estilos para la barra de búsqueda */
+  .search-bar {
+    display: flex;
+    align-items: center; /* Alinea los elementos verticalmente al centro */
+  }
+  
+  .search-bar input {
+    margin-right: 10px; /* Espacio entre la entrada de texto y el botón */
+  }
+  
+  .search-bar button {
+    background-color: #555; /* Color de fondo gris más oscuro para el botón de búsqueda */
+    color: white; /* Color del texto en el botón de búsqueda */
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+  }
+  
+  /* Estilos para los botones en la parte derecha de la barra de navegación */
+  .navbar-buttons {
+    display: flex;
+  }
+  
+  /* Alineación de la barra de búsqueda a la izquierda */
+  .search-bar {
+    margin-right: auto;
+  }
+  
+.navbar {
+    display: flex;
+    justify-content: center; /* Alinea los elementos al centro */
+    padding: 20px; /* Relleno externo */
+    background-color: #f7f7f7; /* Color de fondo gris oscuro */
+  }
+  
+  /* Estilos para la primera barra de navegación (botones en la derecha) */
+  .navbar-top {
+    display: flex;
+    justify-content: flex-end; /* Alinea los elementos al final */
+    padding: 20px; /* Relleno externo */
+    background-color: #888888; /* Color de fondo gris oscuro */
+  }
+  
+  /* Estilos para los botones en la primera barra de navegación */
+  .navbar-top .button {
+    margin-right: 5px; /* Espacio entre botones */
+  }
+  
+  /* Estilos adicionales para resaltar el botón activo en la primera barra */
+  .navbar-top .button.active {
+    background-color: #ffffff; /* Color de fondo gris más oscuro */
+  }
+  
+  /* Estilos para la segunda barra de navegación (botones centrados) */
+  .navbar-bottom {
+    display: flex;
+    justify-content: center; /* Alinea los elementos al centro */
+    padding: 20px; /* Relleno externo */
+    background-color: #ffffff; /* Color de fondo gris oscuro */
+  }
+  
+  /* Estilos para los botones en la segunda barra de navegación */
+  .navbar-bottom .button {
+    margin-right: 10px; /* Espacio entre botones */
+  }
+  
+  /* Estilos adicionales para resaltar el botón activo en la segunda barra */
+  .navbar-bottom .button.active {
+    background-color: #555; /* Color de fondo gris más oscuro */
+  }
+  
+/* Estilos para el subtítulo "Todos" */
+.subtitle {
+    margin-top: 20px; /* Espacio superior */
+    margin-left: 20px; /* Margen izquierdo */
+    text-align: left; /* Alinea el texto a la izquierda */
+  }
+  
+/* Estilos para el espacio de visualización de imágenes */
+.image-display {
+    display: flex;
+    margin-top: 20px; /* Espacio superior */
+    margin-left: 30px; /* Margen izquierdo */
+  }
+  
+  /* Estilos para cada imagen */
+  .image {
+    width: 300px; /* Ancho de la imagen */
+    height: 200px; /* Altura de la imagen */
+    margin-right: 100px; /* Aumenta el espacio entre imágenes */
+  }
